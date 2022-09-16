@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/drawable/fab_button.xml" value="0.178" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout-v23/fragment_images.xml" value="0.11594202898550725" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout-v26/popup_layout.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout/drawer.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout/fragment_apk.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout/fragment_images.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout/image_dapter.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout/item_adapter_view.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout/item_apk_adapter.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/layout/popup_layout.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/menu/drawer_menu.xml" value="0.18" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/xml/filepaths.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/xml/provide_path.xml" value="0.15042735042735042" />
+        <entry key="..\:/Users/HP/Desktop/NASA/FileTransfer/app/src/main/res/xml/provider_path.xml" value="0.12431693989071038" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

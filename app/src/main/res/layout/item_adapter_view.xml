@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="horizontal"
+    android:clickable="true"
+    android:focusable="true"
+    android:id="@+id/id_ll_image_item">
+
+    <ImageView
+        android:id="@+id/id_iv_item_image"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:scaleType="fitXY"
+        android:src="@drawable/noimage"
+        android:contentDescription="@string/image_item" />
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.7"
+        android:paddingHorizontal="5dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/id_tv_item_title"
+            android:text="@string/app_name"
+            android:textSize="20sp"
+            android:textStyle="bold|italic"
+            android:layout_marginVertical="10dp"
+            android:textAlignment="center"
+            android:fontFamily="sans-serif-black"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/id_tv_item_location"
+            android:layout_marginVertical="10dp"
+            android:text="@string/app_name"
+            android:textSize="15sp"
+            android:layout_gravity="center|bottom"/>
+    </FrameLayout>
+</LinearLayout>
